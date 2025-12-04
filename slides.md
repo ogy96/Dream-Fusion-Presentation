@@ -172,6 +172,8 @@ Examples:
 
 ## (Yes, we like squirrels!)
 
+---
+
 # Quantitative Highlights
 
 **CLIP R-Precision**
@@ -252,3 +254,4 @@ Examples:
 🔗 **GitHub Repo:** https://dreamfusion3d.github.io/
 
 🔗 **Paper:** https://arxiv.org/abs/2209.14988
+
